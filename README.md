@@ -22,7 +22,7 @@ Chen, Kash, [Information Elicitation for Decision Making](https://projects.iq.ha
 
 Oesterheld, Conitzer [Decision Scoring Rules](https://users.cs.duke.edu/~conitzer/decisionWINE20.pdf)
 
-## futarchy
+### futarchy
 
 _Use decision markets to choose policies that best improve agreed-upon metrics._
 
