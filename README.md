@@ -10,6 +10,8 @@ _Tradeable contracts whose prices aggregate crowd beliefs about how an uncertain
 
 Hanson, [Logarithmic Market Scoring Rules for Modular Combinatorial Information Aggregation](https://mason.gmu.edu/~rhanson/mktscore.pdf)
 
+📍 Wolfers, Zitzewitz, [Prediction Markets](https://users.nber.org/~jwolfers/Papers/Predictionmarkets.pdf)
+
 Hanson, Oprea, Porter, [Information Aggregation and Manipulation in an Experimental Market](https://mason.gmu.edu/~rhanson/biastest.pdf)
 
 ### decision markets
