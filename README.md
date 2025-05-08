@@ -46,6 +46,7 @@ Gnosis, [Conditional Tokens](https://web.archive.org/web/20221219190117/https://
 
 [Prediction Markets are Confounded—Implications for the feasibility of Futarchy](https://www.greaterwrong.com/posts/xnC68ZfTkPyzXQS8p/prediction-markets-are-confounded-implications-for-the)
 
+Sztorc, [Fork Futures](https://www.truthcoin.info/blog/fork-futures/)
 
 [Futarchy Nonprofits](https://docs.google.com/document/d/1cxAWuW1HxJY_bD0gYELpUPzo5-ONCl6r9UHnqjE0_TQ/mobilebasic)
 
