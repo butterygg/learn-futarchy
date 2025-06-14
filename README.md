@@ -30,6 +30,8 @@ _Use decision markets to choose policies that best improve agreed-upon metrics._
 
 📍 Hanson, [Futarchy: Vote Values, But Bet Beliefs](https://mason.gmu.edu/~rhanson/futarchy.html).
 
+Merkle, [DAOs, Democracy and Governance](https://www.ralphmerkle.com/papers/DAOdemocracyDraft.pdf).
+
 ## articles
 
 Butter, [Conditional Funding Markets](https://ggresear.ch/t/conditional-funding-markets/27)
