@@ -105,4 +105,6 @@ Martin Köppelmann, [The Road to Futarchy](https://www.youtube.com/watch?v=FUAdC
 
 [Amoveo](https://github.com/zack-bitcoin/amoveo-docs/blob/master/blog_posts/futarchys_failure.md) (discontinued)
 
-[Zeitgeist]([https://zeitgeist.pm/](https://docs.zeitgeist.pm/docs/learn/futarchy))
+[Zeitgeist](https://docs.zeitgeist.pm/docs/learn/futarchy)
+
+[Futarchy.fi](https://futarchy.fi/)
